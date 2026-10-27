@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Solvi P\u0026ID Safety and Risk Analysis Platform",
+  "description": "An autonomous chemical process safety, P&ID topology digitization, and Honeywell UniSim Design R510/R520 process simulation platform with human-in-the-loop PFD validation and engineering automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
